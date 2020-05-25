@@ -44,8 +44,9 @@ export default {
     },
     {
       name: 'body',
-      title: 'Body',
-      type: 'blockContent'
+      title: 'Body', 
+      type: 'array', 
+      of: [{type: 'block'}, {type: 'gist'}]
     }
   ],
 
