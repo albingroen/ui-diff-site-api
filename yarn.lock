@@ -1101,12 +1101,12 @@
     react-tippy "^1.2.3"
     rxjs "^6.5.3"
 
-"@sanity/default-login@^1.149.11":
-  version "1.149.11"
-  resolved "https://registry.yarnpkg.com/@sanity/default-login/-/default-login-1.149.11.tgz#280cf172587c93c82e44670f667b9fd0a59d7613"
-  integrity sha512-BZ22YbXqF3oRDnm7INP2gaIGEL33VlCzWUNwq6QaFlVccDMIfLCu2fFEb6bPLRjneGVvpH1WduE86lnbV4OfoQ==
+"@sanity/default-login@^2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@sanity/default-login/-/default-login-2.0.5.tgz#4fb8f038fd4e1b444e16fdf9a1bc50b261c8e88d"
+  integrity sha512-deXm68ykL8pjnEf/8brUkwhK0DUdcQms87K5Y9jhsZ0aWl+uPX9Okpmv7YTZsK+ZkmVACR4b6UKAoy26xOV5xQ==
   dependencies:
-    "@sanity/generate-help-url" "1.149.0"
+    "@sanity/generate-help-url" "2.0.1"
     prop-types "^15.6.0"
     rxjs "^6.5.3"
 
@@ -1214,6 +1214,11 @@
   version "1.149.0"
   resolved "https://registry.yarnpkg.com/@sanity/generate-help-url/-/generate-help-url-1.149.0.tgz#765c2803ae67da16b8349f71317873b67f04b486"
   integrity sha512-8KKryNJGP/AKQOvziu6hdah7s9analAsQ1YZCHYyybdRRxDoaZ8QoBZ/If2vyQFBIl2+EXK9Z+x4qVmNa17umQ==
+
+"@sanity/generate-help-url@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@sanity/generate-help-url/-/generate-help-url-2.0.1.tgz#2ba4c8087bd1447737358a6b18ad6ea503252532"
+  integrity sha512-dnmMUZJH1tklqh6FE7dCc/L/0VcCexeyrcEBCt9me0KDwVna9l9fzQUo2uSg82ZvxWt+Bkq1c5zP5BDzMpj7Mw==
 
 "@sanity/image-url@0.140.15":
   version "0.140.15"
